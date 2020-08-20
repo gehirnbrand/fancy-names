@@ -347,7 +347,7 @@
     "name": "Cedric Sentino",
     "surname": "Engelmann"
   },
-    {
+  {
     "name": "Berthold Christian",
     "surname": "Bökelberg"
   },
@@ -366,10 +366,6 @@
   {
     "name": "Sonja",
     "surname": "Wechseltalg"
-  },
-  {
-    "name": 0,
-    "surname": "Stronzenoms"
   },
   {
     "name": "Lisa",
@@ -407,6 +403,7 @@
     "name": "Sven",
     "surname": "Schnobelborg"
   }, 
+  {
     "name": "Mischa",
     "surname": "Dehnungsstreifen"
   },
