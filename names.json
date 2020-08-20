@@ -248,7 +248,7 @@
     "surname": "Käseberg"
   },
   {
-    "name": "Belinda Rosa",
+    "name": "Belinda",
     "surname": "Schwellung"
   },
   {
@@ -268,7 +268,7 @@
     "surname": "Locherberg"
   },
   {
-    "name": "Melissa Clara",
+    "name": "Melissa",
     "surname": "Mockerzins"
   },
   {
@@ -324,6 +324,10 @@
     "surname": "Baumann"
   },
   {
+    "name": "Anjo",
+    "surname": "Appelhans"
+  },
+  {
     "name": "Tiffany",
     "surname": "Del Bosque"
   },
@@ -348,35 +352,19 @@
     "surname": "Bökelberg"
   },
   {
-    "name": "Quentin",
-    "surname": 0
-  },
-  {
     "name": "Turbo Pascal",
     "surname": "Nullpunkt"
   },
   {
-    "name": "Quintus",
-    "surname": 0
-  },
-  {
-    "name": "Fahritt",
-    "surname": 0
-  },
-  {
-    "name": 0,
+    "name": "Farid",
     "surname": "Schellendrescher"
   },
   {
-    "name": 0,
+    "name": "Nepomuk",
     "surname": "Borkensudel"
   },
   {
-    "name": 0,
-    "surname": "O'Bumblebee"
-  },
-  {
-    "name": 0,
+    "name": "Sonja",
     "surname": "Wechseltalg"
   },
   {
@@ -384,7 +372,7 @@
     "surname": "Stronzenoms"
   },
   {
-    "name": 0,
+    "name": "Lisa",
     "surname": "Lullipol"
   },
   {
@@ -400,7 +388,7 @@
     "surname": "Gracias"
   },
   {
-    "name": "Gerwin Eduard Günther",
+    "name": "Gerwin",
     "surname": "Buschmann"
   },
   {
@@ -418,5 +406,20 @@
   {
     "name": "Sven",
     "surname": "Schnobelborg"
+  }, 
+    "name": "Mischa",
+    "surname": "Dehnungsstreifen"
+  },
+  {
+    "name": "Fäzius",
+    "surname": "Aftersause"
+  },
+  {
+    "name": "Thore",
+    "surname": "Warmbier"
+  },
+  {
+    "name": "Rosa",
+    "surname": "Kellermann"
   }
 ]
